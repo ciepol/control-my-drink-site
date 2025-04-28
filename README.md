@@ -1,8 +1,4 @@
-<p align="center">
-
 # Control my drink ![Control My Drink](/favicon.png)
-
-</p>
 
 Soon in app stores...
 
