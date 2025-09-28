@@ -1,5 +1,9 @@
 # Control my drink ![Control My Drink](/favicon.png)
 
+## Available now!
+
+[![Get it on Google Play](/GetItOnGooglePlay_Badge_Web_color_English.png)](https://play.google.com/store/apps/details?id=com.ciepol.controlmydrink)
+
 ## How to join early access?
 
 1. Share with us the email which you use in Google Play Store
